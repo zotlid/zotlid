@@ -8,6 +8,7 @@ I am a novice specialist in data analysis. In the near future my repositories wi
 
 ## Technical Stack
 *   SQL, PostgreSQL
+*   R, RStudio
 *   Python, pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 *   Jupyter Notebook
 *   Docker, Linux
