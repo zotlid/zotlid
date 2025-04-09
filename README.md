@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Lidiia 👋
 
-<!--
-**zotlid/zotlid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a novice specialist in data analysis. In the near future my repositories will be a place to store my projects.
 
-Here are some ideas to get you started:
+<p align='center'>
+   📫 How to reach me: <a href='mailto:zotlid12@gmail.com'>zotlid12@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Stack
+*   SQL, PostgreSQL
+*   Python, pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+*   Jupyter Notebook
+*   Docker, Linux
+*   Apache Hadoop, Apache Spark, Apache Superset, ClickHouse
+
+<p align='center'>
+   <a href="https://github.com/zotlid/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zotlid&layout=compact"/></a>
+</p>
